@@ -47,4 +47,5 @@ $("#submit").on("click", function(){
 else{
     alert("Please Fill out all fields before Submitting")
 };
+$("#survey")[0].reset();
 });
