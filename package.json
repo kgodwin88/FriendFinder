@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgodwin88/FriendFinder.git"
+  },
+  "author": "Kevin Godwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kgodwin88/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/kgodwin88/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
